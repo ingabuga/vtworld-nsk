@@ -3,7 +3,26 @@
   font-size: 17px;
   line-height: 19px;
   text-transform: uppercase;
-  color: #e7c11e;
-  padding: 0;
+  color: black;
+  padding: 20px;
   margin: 0;
 }
+
+.header__points-download {
+  color: black;
+  text-decoration: none;
+}
+
+.header__points-download:hover {
+  color: #e7c11e;
+}
+
+.header__points:hover {
+  color: #e7c11e;
+}
+
+.header__points-active {
+  color: #e7c11e;
+}
+
+

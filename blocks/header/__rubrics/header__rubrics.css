@@ -1,8 +1,7 @@
 .header__rubrics {
   list-style: none;
   display: flex;
-  column-gap: 10px;
-  width: 70%;
+  /* width: 70%; */
   padding: 0;
   margin: 10px;
 }

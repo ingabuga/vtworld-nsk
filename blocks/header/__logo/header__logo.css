@@ -1,0 +1,6 @@
+.header__logo {
+  max-width: 20vw;
+  margin: auto 0 auto 30px;
+  object-fit: cover;
+  /* padding-left: 30px; */
+}

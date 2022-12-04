@@ -1,0 +1,39 @@
+.text__image-aside {
+  float: right;
+  margin: 10px 20px;
+  width: 150px;
+  padding-top: 14px;
+}
+
+.text__image-small {
+  width: 400px;
+  position: relative;
+}
+
+.text__image-right {
+  width: 400px;
+}
+
+.text__image-center {
+  float: left;
+  position: relative;
+  width: 900px;
+  margin-bottom: 20px;
+  padding-top: 14px;
+}
+
+.text__image-caption {
+  position: absolute;
+  color: black;
+  background-color: orange;
+  font-family: 'Univers', Arial, sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 14px;
+  padding: 3px 5px;
+  margin: 20px;
+  bottom: 0;
+  display: inline-block;
+  left:0;
+  z-index: 1;
+}
