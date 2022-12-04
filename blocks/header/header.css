@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  position: fixed;
+  justify-content: space-between;
+  padding: 20px 0;
+  /* max-width: calc(100% - 48px*2); */
+  width: 100vw;
+  background-color: white;
+  z-index: 1;
+  margin: 0 auto;
+}

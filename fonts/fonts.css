@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'PT Sans';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./PTSans-Bold.woff2") format("woff2"),
+       url("./PTSans-Bold.woff") format("woff"),
+       url("./PTSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./PTSans-Regular.ttf") format("truetype"),
+       url("./PTSans-Regular.woff") format("woff"),
+       url("./PTSans-Regular.woff2") format("woff2");
+
+}
+
+@font-face {
+  font-family: 'Univers';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./UNVR57X.ttf") format("truetype"),
+       url("./UNVR57X.woff") format("woff"),
+       url("./UNVR57X.woff2") format("woff2");
+
+}
+
+@font-face {
+  font-family: 'Univers';
+  font-style:  normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("./UNVR67X.TTF") format("truetype"),
+       url("./UNVR67X.woff") format("woff"),
+       url("./UNVR67X.woff2") format("woff2");
+
+}

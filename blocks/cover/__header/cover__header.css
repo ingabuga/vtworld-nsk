@@ -1,0 +1,8 @@
+.cover__header {
+  position: absolute;
+  margin: auto 25%;
+  background-color: black;
+  opacity: 80%;
+  padding: 45px;
+  bottom: 30px;
+}

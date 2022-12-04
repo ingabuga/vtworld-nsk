@@ -1,0 +1,12 @@
+.text {
+  margin: auto 25%;
+  max-width: 800px;
+
+}
+
+
+@media screen and (max-width: 375px) {
+  .text {
+    margin: auto 20px;
+  }
+}

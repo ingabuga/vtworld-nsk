@@ -1,0 +1,6 @@
+.header__menu {
+  display: flex;
+  justify-content: stretch;
+  padding: 0;
+  margin:0;
+}

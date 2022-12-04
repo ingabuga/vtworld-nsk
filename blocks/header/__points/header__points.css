@@ -1,0 +1,9 @@
+.header__points {
+  font-family: 'Univers', Arial, sans-serif;
+  font-size: 17px;
+  line-height: 19px;
+  text-transform: uppercase;
+  color: #e7c11e;
+  padding: 0;
+  margin: 0;
+}
